@@ -8,7 +8,7 @@ My name is José Vinicíus, and I'm from Pernambuco in Brazil.
 
 ### Working on
 
-By now, I'm working as a Software Engineer at a fintech called Flexpag in Recife.
+By now, I'm working as a Software Engineer at a acquirer called PagSeguro in Brazil.
 
 ### Proeficient Technologies
 
@@ -20,7 +20,7 @@ Recently I started to develop some projects using Cloud features like Serverless
 
 ### Work
 
-Currently, I'm working at Flexpag that is a Fintech in the, by now, Brazil's Financial Market.
+Currently, I'm working at PagSeguro that is one of the biggets Financial companies in Brazil.
 
 ## Contacts
 
